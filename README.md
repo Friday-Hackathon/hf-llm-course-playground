@@ -1,2 +1,14 @@
-# hf-llm-course-playground
-A personal sandbox where one follow the Hugging Face LLM Course. Use this for completing chapters, saving code snippets, running exercises, and documenting learnings.
+# Hugging Face LLM Course – Learning Playground
+
+🧪 This repo tracks my progress through Hugging Face's LLM course.  
+Each chapter is paired with code notebooks, markdown notes, and examples.
+
+## Chapters Completed
+- ✅ Chapter 1: Transformers & Attention
+- ✅ Chapter 2: Tokenizers & Sentiment Classification
+- 🔜 Chapter 3: Summarization & Question Answering
+
+## Usage
+```bash
+conda create -n hf-course python=3.10
+pip install transformers datasets torch
