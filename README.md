@@ -4,8 +4,8 @@
 Each chapter is paired with code notebooks, markdown notes, and examples.
 
 ## Chapters Completed
-- ✅ Chapter 1: Transformers & Attention
-- ✅ Chapter 2: Tokenizers & Sentiment Classification
+- WIP Chapter 1: Transformers & Attention
+- WIP Chapter 2: Tokenizers & Sentiment Classification
 - 🔜 Chapter 3: Summarization & Question Answering
 
 ## Usage
