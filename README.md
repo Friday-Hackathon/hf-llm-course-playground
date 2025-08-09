@@ -10,7 +10,7 @@ Each chapter is paired with code notebooks, markdown notes, and examples.
 ### 📚 Learning Goals
 - [x] Hugging Face Chapter 1: Transformers & Attention
 - [x] Hugging Face Chapter 2: Tokenizers & Sentiment Classification
-- [ ] Hugging Face Chapter 3: Pretraining & Masked Language Models
+- [X] Hugging Face Chapter 3: Pretraining & Masked Language Models
 - [ ] Stanford CS224n Lecture 3: Word Window Classification
 - [ ] Stanford CS224n Lecture 4: Neural Networks and Backpropagation
 
