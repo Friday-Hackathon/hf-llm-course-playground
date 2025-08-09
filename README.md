@@ -16,15 +16,15 @@ Each chapter is paired with code notebooks, markdown notes, and examples.
 
 ### 🛠️ Hands-on Project
 - https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/text_classification.ipynb
-- [ ] Load and fine-tune `bert-base-uncased` using Hugging Face `Trainer`
-- [ ] Dataset: IMDb (binary classification)
-- [ ] Compare: `bert-base-uncased` vs `distilbert-base-uncased` accuracy
-- [ ] Push notebook to `notebooks/bert-finetune-imdb.ipynb`
-- [ ] Include training args, evaluation metrics, confusion matrix
+- [X] Load and fine-tune `bert-base-uncased` using Hugging Face `Trainer`
+- [X] Dataset: IMDb (binary classification)
+- [X] Compare: `bert-base-uncased` vs `distilbert-base-uncased` accuracy
+- [X] Push notebook to `notebooks/bert-finetune-imdb.ipynb`
+- [X] Include training args, evaluation metrics, confusion matrix
 
 ### 📂 Project Assets
-- [ ] Model Card: Add `model_card.md` describing training setup and results
-- [ ] Experiment Log: Document key learnings and performance differences
+- [X] Model Card: Add `model_card.md` describing training setup and results
+- [X] Experiment Log: Document key learnings and performance differences
 
 ### ✍️ Blog Post
 - [ ] Title: *What I Learned Fine-Tuning BERT for Text Classification*
