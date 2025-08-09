@@ -6,7 +6,8 @@ Each chapter is paired with code notebooks, markdown notes, and examples.
 ## Chapters Completed
 - Chapter 1: Transformers & Attention
 - Chapter 2: Tokenizers & Sentiment Classification
-- Chapter 3: Summarization & Question Answering  
+- Chapter 3: Summarization & Question Answering
+  
 ### 📚 Week3: Learning Goals
 - [x] Hugging Face Chapter 1: Transformers & Attention
 - [x] Hugging Face Chapter 2: Tokenizers & Sentiment Classification
@@ -27,3 +28,40 @@ Each chapter is paired with code notebooks, markdown notes, and examples.
 - 🤗 Hugging Face Course: [Chapter 3](https://huggingface.co/learn/nlp-course/chapter3/3)
 - 📁 [Project Repository](https://github.com/Friday-Hackathon/hf-llm-course-playground)
 
+## ✅ Week 4: Attention, Transformers & First Retrieval-Augmented Generation (RAG) Build
+
+### 📚 Learning Goals
+- [ ] **CS224n Lecture 5:** Dependency Parsing and Introduction to Attention
+- [ ] **CS224n Lecture 6:** Transformers and Self-Attention in Detail
+- [ ] **Hugging Face Course Chapter 4:** Transformers API (BERT, GPT-2, etc.)
+- [ ] Read the paper: *Attention is All You Need* (focus on Section 3: The Transformer architecture)
+
+### 🛠️ Hands-on Project
+- [ ] Load and experiment with `pipeline()` for text-generation and question-answering tasks using GPT-2 and BERT
+- [ ] Build a **basic RAG pipeline**:
+  - Use a small document set (e.g., product FAQs, knowledge base)
+  - Create embeddings with `sentence-transformers` or `OpenAIEmbeddings`
+  - Implement retrieval with `faiss` or `Chroma`
+  - Feed retrieved context into a transformer model for Q&A
+
+### 📂 Project Assets
+- [ ] Save notebooks:
+  - `notebooks/transformer_api_examples.ipynb` (transformer experiments)
+  - `notebooks/basic_rag_pipeline.ipynb` (retrieval-augmented generation)
+- [ ] Add `requirements.txt` for easy replication
+- [ ] Optional: Deploy RAG pipeline demo to Hugging Face Spaces
+
+### ✍️ Blog Post
+- [ ] Title: *"From Transformers to RAG: Building Context-Aware LLMs"*
+- [ ] Sections:
+  1. What is Attention?  
+  2. How Transformers changed NLP  
+  3. What is Retrieval-Augmented Generation and why it matters  
+  4. My first RAG build and lessons learned
+- [ ] Include diagrams: attention mechanism, RAG architecture
+
+### 🔗 Resources
+- 📘 [CS224n Lecture 5 Slides](https://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture5-dep-parsing.pdf)
+- 📘 [CS224n Lecture 6 Slides](https://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture6-transformers.pdf)
+- 🤗 [Hugging Face Course Chapter 4](https://huggingface.co/transformers)
+- 📄 [Attention is All You Need Paper](https://arxiv.org/abs/1706.03762)
