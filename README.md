@@ -7,7 +7,7 @@ Each chapter is paired with code notebooks, markdown notes, and examples.
 - Chapter 1: Transformers & Attention
 - Chapter 2: Tokenizers & Sentiment Classification
 - Chapter 3: Summarization & Question Answering  
-### 📚 Learning Goals
+### 📚 Week3: Learning Goals
 - [x] Hugging Face Chapter 1: Transformers & Attention
 - [x] Hugging Face Chapter 2: Tokenizers & Sentiment Classification
 - [X] Hugging Face Chapter 3: Pretraining & Masked Language Models
