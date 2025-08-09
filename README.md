@@ -15,7 +15,7 @@ Each chapter is paired with code notebooks, markdown notes, and examples.
 - [ ] Stanford CS224n Lecture 4: Neural Networks and Backpropagation
 
 ### 🛠️ Hands-on Project
-- https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/text_classification.ipynb
+- [Week3 Notebook](https://github.com/Friday-Hackathon/hf-llm-course-playground/blob/main/Week3/Text_Classification_on_GLUE.ipynb)
 - [X] Load and fine-tune `bert-base-uncased` using Hugging Face `Trainer`
 - [X] Dataset: IMDb (binary classification)
 - [X] Compare: `bert-base-uncased` vs `distilbert-base-uncased` accuracy
