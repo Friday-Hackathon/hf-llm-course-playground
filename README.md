@@ -12,8 +12,8 @@ Each chapter is paired with code notebooks, markdown notes, and examples.
 - [x] Hugging Face Chapter 1: Transformers & Attention
 - [x] Hugging Face Chapter 2: Tokenizers & Sentiment Classification
 - [X] Hugging Face Chapter 3: Pretraining & Masked Language Models
-- [ ] Stanford CS224n Lecture 3: Word Window Classification
-- [ ] Stanford CS224n Lecture 4: Neural Networks and Backpropagation
+- [X] Stanford CS224n Lecture 3: Word Window Classification
+- [X] Stanford CS224n Lecture 4: Neural Networks and Backpropagation
 
 ### 🛠️ Hands-on Project
 - [Week3 Notebook](https://github.com/Friday-Hackathon/hf-llm-course-playground/blob/main/Week3/Text_Classification_on_GLUE.ipynb)
