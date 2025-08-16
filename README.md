@@ -33,8 +33,8 @@ Each chapter is paired with code notebooks, markdown notes, and examples.
 ### 📚 Learning Goals
 - [ ] **CS224n Lecture 5:** Dependency Parsing and Introduction to Attention
 - [ ] **CS224n Lecture 6:** Transformers and Self-Attention in Detail
-- [ ] **Hugging Face Course Chapter 4:** Transformers API (BERT, GPT-2, etc.)
-- [ ] Read the paper: *Attention is All You Need* (focus on Section 3: The Transformer architecture)
+- [X] **Hugging Face Course Chapter 4:** Transformers API (BERT, GPT-2, etc.)
+- [X] Read the paper: *Attention is All You Need* (focus on Section 3: The Transformer architecture)
 
 ### 🛠️ Hands-on Project
 - [ ] Load and experiment with `pipeline()` for text-generation and question-answering tasks using GPT-2 and BERT
