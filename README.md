@@ -37,8 +37,8 @@ Each chapter is paired with code notebooks, markdown notes, and examples.
 - [X] Read the paper: *Attention is All You Need* (focus on Section 3: The Transformer architecture)
 
 ### 🛠️ Hands-on Project
-- [ ] Load and experiment with `pipeline()` for text-generation and question-answering tasks using GPT-2 and BERT
-- [ ] Build a **basic RAG pipeline**:
+- [X] Load and experiment with `pipeline()` for text-generation and question-answering tasks using GPT-2 and BERT
+- [X] Build a **basic RAG pipeline**:
   - Use a small document set (e.g., product FAQs, knowledge base)
   - Create embeddings with `sentence-transformers` or `OpenAIEmbeddings`
   - Implement retrieval with `faiss` or `Chroma`
