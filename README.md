@@ -45,11 +45,11 @@ Each chapter is paired with code notebooks, markdown notes, and examples.
   - Feed retrieved context into a transformer model for Q&A
 
 ### 📂 Project Assets
-- [ ] Save notebooks:
+- [X] Save notebooks:
   - `notebooks/transformer_api_examples.ipynb` (transformer experiments)
   - `notebooks/basic_rag_pipeline.ipynb` (retrieval-augmented generation)
-- [ ] Add `requirements.txt` for easy replication
-- [ ] Optional: Deploy RAG pipeline demo to Hugging Face Spaces
+- [X] Add `requirements.txt` for easy replication
+- [X] Optional: Deploy RAG pipeline demo to Hugging Face Spaces
 
 ### ✍️ Blog Post
 - [ ] Title: *"From Transformers to RAG: Building Context-Aware LLMs"*
