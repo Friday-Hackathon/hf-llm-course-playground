@@ -51,15 +51,6 @@ Each chapter is paired with code notebooks, markdown notes, and examples.
 - [X] Add `requirements.txt` for easy replication
 - [X] Optional: Deploy RAG pipeline demo to Hugging Face Spaces
 
-### ✍️ Blog Post
-- [ ] Title: *"From Transformers to RAG: Building Context-Aware LLMs"*
-- [ ] Sections:
-  1. What is Attention?  
-  2. How Transformers changed NLP  
-  3. What is Retrieval-Augmented Generation and why it matters  
-  4. My first RAG build and lessons learned
-- [ ] Include diagrams: attention mechanism, RAG architecture
-
 ### 🔗 Resources
 - 📘 [CS224n Lecture 5 Slides](https://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture5-dep-parsing.pdf)
 - 📘 [CS224n Lecture 6 Slides](https://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture6-transformers.pdf)
